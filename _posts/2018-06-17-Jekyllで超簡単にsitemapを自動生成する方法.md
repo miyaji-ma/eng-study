@@ -1,6 +1,6 @@
 ---
 layout: post
-title: jekyllで超簡単にsitemapを自動生成する方法
+title: Jekyllで超簡単にsitemapを自動生成する方法
 date: 2018-06-17 16:25 +0900
 ---
 
