@@ -16,9 +16,7 @@
 title: エンジニアは勉強でしょ！
 #email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  2017年からWeb系エンジニアをやっています。
-  日々勉強した技術や、興味を持ったことなど記録していこうと思っています。
-  Java, AWS, ガジェット, VRなどの情報が中心になると思います。
+  Web系エンジニアの勉強の記録
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
